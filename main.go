@@ -1,4 +1,4 @@
-package HelloWorld
+package learnGoWithTests
 
 import "fmt"
 

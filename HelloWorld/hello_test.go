@@ -1,4 +1,4 @@
-package awesomeProject
+package HelloWorld
 
 import "testing"
 
